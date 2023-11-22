@@ -11,7 +11,7 @@ aliases:
 
 ## 1 Introduction 
 
-Get up and running with the Mendix Platform and start developing your first app in Mendix Studio Pro. This is Part 1 of the quickstarts, where you will learn the basics of Studio Pro, handle data using the Domain Model, populate your app's pages with dynamic data, and create custom app logic using a microflow.
+Get up and running with the Mendix Platform and start developing your first app in Mendix Studio Pro. This is Part 1 of the quick start guides, where you will learn the basics of Studio Pro, handle data using the Domain Model, populate your app’s pages with dynamic data, and create custom app logic using a microflow.
 
 When you complete Part 1, you will have a photo album app that will allow users to upload, edit, and display pictures so that their cherished memories will be preserved. This guide, Part 1, will show you how to build a responsive web app compatible with all desktop, tablet, and mobile browsers.
 
